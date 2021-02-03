@@ -1,0 +1,98 @@
+body{width: 900px;
+     margin: 0 auto;
+      
+      background-image:url("seamless-wood-texture-free-76.jpg");
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-size:cover;
+
+      
+    }
+
+    .farba{ position: relative;
+      text-align: center;
+            }
+
+
+
+.logo{width:180px;
+    height: 180px;
+float: left;
+padding: 5px;}
+
+
+.domovobr{ margin-left: 170px;
+          height: 350px;
+          width: 550px;
+         border-style: solid;}
+
+    h1{font-family: 'Montserrat', sans-serif;
+     font-size: 60px; 
+     margin: 50px;
+    float: right;}
+
+
+    .domovtxt{font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+    text-align: center;
+}
+    .footer{color: #333;}
+    .footr {font-family: 'Montserrat', sans-serif;
+            color: white;}
+ 
+
+    
+    
+   
+      .contactobr{height: 300px;
+                  width: 300px;
+                 
+      margin-left: 150px;}
+                  
+
+        .mail{font-size: 40px; 
+              font-family: 'Montserrat', sans-serif;
+                 text-align: center;
+                 
+                 border-style:groove;
+                 border-top: none;
+                 border-left: none;
+                 border-right: none;
+                 
+                  }
+
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: none;
+        font-family: 'Montserrat', sans-serif;
+        border-style: solid;
+        border-top: none;
+                 border-left: none;
+                 border-right: none;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+         text-emphasis-color: saddlebrown;
+         font-size: 22px;
+        display: block;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        padding: 14px 33px;
+        text-decoration: none;
+        
+      }
+      
+      /*menu hover*/
+      li a:hover {
+        color:saddlebrown;
+       transition-duration:0.5s;
+        
+      }
